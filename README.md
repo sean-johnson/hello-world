@@ -1,4 +1,4 @@
 # hello-world
 My first repo.
 
-Here I am just learning more about branches in Github.
+An update. I am just learning about branches in GitHub.
